@@ -1,6 +1,6 @@
 # OpenSnips_original_implementation
 
-## Overview
+## Original Version Overview
 
 !! This project is a work in progress. The documentation is in places, ahead of the function but it does build and run on a x86_64 Linux Desktop.
 
